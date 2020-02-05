@@ -1,0 +1,3 @@
+/home/clement/bougnoule/OOP_indie_studio_2018/src/CMakeFiles/rebuild_cache.dir
+/home/clement/bougnoule/OOP_indie_studio_2018/src/CMakeFiles/bomberman.dir
+/home/clement/bougnoule/OOP_indie_studio_2018/src/CMakeFiles/edit_cache.dir
